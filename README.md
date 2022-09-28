@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Jamie     </h2>
-       <h4>  I'm a Front End Developer. Training every day and looking for new weapons to fight ⚔ against my last versions of me and his code 🦠 </h4>
+       <h4>  I'm a Front End Developer, Training every day and looking for new weapons to fight ⚔ against my last versions of me and his code 🦠 </h4>
 <section align="left">
 
 - 🌱 I’m currently learning advanced front End technologies
